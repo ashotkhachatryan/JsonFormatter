@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "JsonBeautifier.Browser",
   "resources": {
-    "hash": "sha256-BDViacX1vn3AnbpWahTrp6eLuwQcpPvcQWMxAMtZ98Y=",
+    "hash": "sha256-mKzIund9etnB7WTHx9SEXSgHFymq5cK9PqHm9IAuRDQ=",
     "fingerprinting": {
-      "JsonBeautifier.Browser.oekttnjibu.wasm": "JsonBeautifier.Browser.wasm",
+      "JsonBeautifier.Browser.tg7pro2sqe.wasm": "JsonBeautifier.Browser.wasm",
       "JsonBeautifier.blt9jgr1of.wasm": "JsonBeautifier.wasm",
       "Microsoft.AspNetCore.Components.m5o9mao3mz.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.ys27yqkevq.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -165,7 +165,7 @@
       "System.Runtime.InteropServices.JavaScript.as0kmkmjab.wasm": "sha256-+gb3S/QUVlppk4dNLnS4hPIGW/T1D71zwXg+tpR2V7Y="
     },
     "assembly": {
-      "JsonBeautifier.Browser.oekttnjibu.wasm": "sha256-kLXyBbTDCIdWf8qkpJpVS2vt4UYWGtXzskPJcZH60fw=",
+      "JsonBeautifier.Browser.tg7pro2sqe.wasm": "sha256-DW0U8XPELBkivJh6kSwgv12wtkn4elDUucl/gp9Aq4w=",
       "JsonBeautifier.blt9jgr1of.wasm": "sha256-8d5+t0ti3hyyLrePSPZlzzywK/4ve7uB3XQVUJP+n5Y=",
       "Microsoft.AspNetCore.Components.m5o9mao3mz.wasm": "sha256-imALPBCXy8w9PyE5+AjqsZ0R3kuw2Eb8si5zgROoPg4=",
       "Microsoft.AspNetCore.Components.Web.ys27yqkevq.wasm": "sha256-DixDTTYC66LvFeYZsuXrLCY0yogBE4h4bYojLpspKVc=",
